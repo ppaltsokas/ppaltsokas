@@ -10,16 +10,16 @@ I love building end-to-end ML projects, AI agents, and tools that solve real pro
 > 
 ---
 
-- 🧰 I’m currently using Cursor to develop my projects.
 - 🧪 I work in **AI Operations (RLHF) at TaskUs**, collaborating on the improvement of large language models.
 - 🎓 I recently completed my **MSc in Data Science & Machine Learning (DAMA)**.
 - 🤖 I’m exploring **RAG, AI agents, vector databases, and MLOps**.
+- 🌐 Portfolio / virtual CV: [Virtual-Me Chatbot and Web-CV](https://virtual-me-chatbot-v2-production.up.railway.app/)
 - 📂 Selected projects:
   - 🧬 **GANs on Fashion-MNIST**
   - 🌞 **Sunspots time-series forecasting**
   - 🧠 **GAIA benchmark multi-tool agent**
   - 💼 **Virtual-Me chatbot & portfolio**
-- 🌐 Portfolio / virtual CV: [Virtual-Me Chatbot and Web-CV](https://virtual-me-chatbot-v2-production.up.railway.app/)
+- 🧰 I’m currently using Cursor to develop my projects.
 - 📫 How to reach me: **ppaltsokas@gmail.com**
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/ppaltsokas/)
 
