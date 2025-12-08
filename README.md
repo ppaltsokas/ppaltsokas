@@ -19,7 +19,7 @@ I love building end-to-end ML projects, AI agents, and tools that solve real pro
   - 🌞 **Sunspots time-series forecasting**
   - 🧠 **GAIA benchmark multi-tool agent**
   - 💼 **Virtual-Me chatbot & portfolio**
-- 🌐 Portfolio / virtual CV: [_add your link here_](https://virtual-me-chatbot-v2-production.up.railway.app/)
+- 🌐 Portfolio / virtual CV: [Virtual-Me Chatbot and Web-CV](https://virtual-me-chatbot-v2-production.up.railway.app/)
 - 📫 How to reach me: **ppaltsokas@gmail.com**
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/ppaltsokas/)
 
