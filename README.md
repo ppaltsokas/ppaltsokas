@@ -55,14 +55,7 @@ I love building end-to-end ML projects, AI agents, and tools that solve real pro
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-
-## 📌 Featured work
-
-- 🔹 [Project 1 title](https://github.com/ppaltsokas/virtual-me-chatbot-v2) – Virtual “Panos” chatbot web-CV using RAG over my CV and projects, built with FastAPI and Gemini 2.5.
-- 🔹 [Project 2 title](https://github.com/ppaltsokas/70s_Boston_House_Prices) – End-to-end notebook from EDA to model evaluation on the Boston housing dataset, built during my 100 Days of Code..
-- 🔹 [Project 3 title](https://github.com/ppaltsokas/Handwashing_and_Death_at_Childbirth) – Data analysis of Semmelweis-era hospital records showing how handwashing reduced maternal deaths at childbirth.
 
 > If you reached this far, feel free to say hi in an issue, a discussion, or on LinkedIn 🙂
