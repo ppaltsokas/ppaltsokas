@@ -1,10 +1,10 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Panagiotis (Panos) Paltsokas</h1>
-<h3 align="center">Mathematician turned Data Scientist & AI/ML Practitioner</h3>
+<h3 align="center">Mathematician, Data Scientist & AI/ML Practitioner</h3>
 
 I'm from Greece 🇬🇷 and I'm currently focused on Data Science, Machine Learning, and AI Operations.
 
-I'm a former math teacher (17+ years) who transitioned into Data Science and now works in AI Operations (RLHF & model alignment).  
+Ι’m a Mathematician (17+ years experience) who transitioned into Data Science and now works in AI Operations (RLHF & model alignment).  
 I love building end-to-end ML projects, AI agents, and tools that solve real problems.
 
 > 
@@ -15,11 +15,10 @@ I love building end-to-end ML projects, AI agents, and tools that solve real pro
 - 🤖 I’m exploring **RAG, AI agents, vector databases, and MLOps**.
 - 🌐 Portfolio / virtual CV: [Virtual-Me Chatbot and Web-CV](https://virtual-me-chatbot-v2-production.up.railway.app/)
 - 📂 Selected projects:
+  - 💼 **Virtual-Me chatbot & portfolio**
+  - 🧠 **GAIA benchmark multi-tool agent**
   - 🧬 **GANs on Fashion-MNIST**
   - 🌞 **Sunspots time-series forecasting**
-  - 🧠 **GAIA benchmark multi-tool agent**
-  - 💼 **Virtual-Me chatbot & portfolio**
-- 🧰 I’m currently using Cursor to develop my projects.
 - 📫 How to reach me: **ppaltsokas@gmail.com**
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/ppaltsokas/)
 
