@@ -13,7 +13,7 @@ I love building end-to-end ML projects, AI agents, and tools that solve real pro
 - 🧪 I work in **AI Operations (RLHF) at TaskUs**, collaborating on the improvement of large language models.
 - 🎓 I recently completed my **MSc in Data Science & Machine Learning (DAMA)**.
 - 🤖 I’m exploring **RAG, AI agents, vector databases, and MLOps**.
-- 🌐 Portfolio / virtual CV: [Virtual-Me Chatbot and Web-CV](https://virtual-me-chatbot-v2-production.up.railway.app/)
+- 🌐 Portfolio / virtual CV: [Virtual-Me Chatbot and Web-CV](https://www.ppaltsokas.com/)
 - 📂 Selected projects:
   - 💼 **Virtual-Me chatbot & portfolio**
   - 🧠 **GAIA benchmark multi-tool agent**
