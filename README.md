@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Panagiotis (Panos) Paltsokas</h1>
 <h3 align="center">Mathematician, Data Scientist & AI/ML Practitioner</h3>
 
-I'm from Greece 🇬🇷 and I'm currently focused on Data Science, Machine Learning, and AI Operations.
+I'm from Greece and I'm currently focused on Data Science, Machine Learning, and AI Operations.
 
 Ι’m a Mathematician (17+ years experience) who transitioned into Data Science and now works in AI Operations (RLHF & model alignment).  
 I love building end-to-end ML projects, AI agents, and tools that solve real problems.
